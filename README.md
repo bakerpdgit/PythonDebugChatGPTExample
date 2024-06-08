@@ -9,6 +9,7 @@ To setup your Flask Server on pythonanywhere, follow instructions: can just use 
 https://help.pythonanywhere.com/pages/Flask/#:~:text=There%20are%20two%20main%20ways%20to%20set%20up,app%20using%20Manual%20configuration%2C%20and%20using%20a%20virtualenv
 - add a web app
 - upload these files and folders into your mysite folder
+- use the BASH console to install the needed modules (requirements.txt)
 - configure your WSGI file to load in your environment variables e.g. add
 
 ...
